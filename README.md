@@ -6,10 +6,12 @@ Thời gian bắt đầu dự án: 07/2023 - 08/2023
 **Công nghệ sử dụng:** 
 - VS Code
 - Xampp
+
 **Ngôn ngữ lập trình:**
 - HTML, CSS
 - Javascript
 - PHP
+
 **Database:** MySQL
 
 Dưới đây là 1 số hình ảnh của dự án.
